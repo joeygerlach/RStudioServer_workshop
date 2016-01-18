@@ -10,6 +10,12 @@ RStudio Server enables you to provide a browser based interface (the RStudio IDE
 <https://support.rstudio.com/hc/en-us/articles/200552306-Getting-Started>
 
 
+There is documentation on setting up a VM running RStudio-server from scratch on the NeCTAR support page <https://support.nectar.org.au/support/solutions/articles/6000098750-pawsey-installing-r-and-rstudio-in-the-cloud> 
+
+This workshop will involve launching a VM using an image in which most of the set-up and installation is already done.  Most of the steps in setting up the image are the same as the steps outlined in the documentation, and a quick list of the commands used in setting up the image is included in the appendices of this guide.
+
+By launching a VM with a prepared image, we can skip many of the steps that require some familiarity with BASH commands, and we can access RStudio almost immediately.
+
 ## Launch a virtual machine with pre-installed RStudio-Server
 
 1. Log on to the NeCTAR dashboard <https://dashboard.rc.nectar.org.au/project>
